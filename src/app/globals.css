@@ -1,0 +1,12 @@
+:root {
+  --primary: #1F4E79;
+  --secondary: #3FA2F7;
+  --bg: #F5F7FA;
+  --text: #1A1A1A;
+  --radius: 12px;
+}
+
+body {
+  background: var(--bg);
+  font-family: "Tajawal", sans-serif;
+}
